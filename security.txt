@@ -1,0 +1,4 @@
+Contact: mailto:contact@spatialmedia.com.au
+Preferred-Languages: en
+Canonical: https://github.com/spatialmedia/security-policy/blob/main/security.txt
+Policy: https://github.com/spatialmedia/security-policy/blob/main/SECURITY.md
